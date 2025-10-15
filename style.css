@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 40vh;
+    height: auto;
+    margin: 11px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+
+}
+
+body {
+    background-color: rgb(94, 93, 93);
+}
+
+h1 {
+    display: flexbox;
+    /* align-items: center; */
+    text-align: center;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(77, 76, 76);
+    color: rgb(167, 161, 161);
+    font-family: "BBHSansBogle-Regular";
+
+
+    
+    /* -webkit-text-fill-color: white; */
+
+}
+
+h2 {
+    margin: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 40vw;
+    background-color: rgb(78, 75, 75);
+    color: rgb(190, 189, 189);
+    /* -webkit-text-stroke: 1px black; */
+    /* -webkit-text-stroke: 0.5px black; */
+}
+
+p {
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: x-large;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgba(102, 101, 101, 0.637);
+    color: rgb(165, 165, 165);
+    font-size: x-large;
+    padding: 10px;
+}
+
+
+
+h4 {
+
+    /* font-family: "BBH Sans Bogle", sans-serif; */
+    /* -webkit-text-stroke: 0.5px black; */
+    font-size: larger;
+}
+
+.h3 {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgba(102, 101, 101, 0.637);
+    color: rgb(165, 165, 165);
+    /* font-size: larger;*/
+    padding: 10px;
+    /* font-family: "BBH Sans Bogle"; */
+    /* font-weight: 400; */
+    /* font-style: normal; */
+} */
+
+img:hover {
+    max-width: 40vh;
+    height: auto;
+    margin: 11px;
+    border-radius: 10px;
+    border: 3px solid rgb(230, 230, 230);
+}
+
+body {
+    font-family: "BBH Sans Bogle", sans-serif;
+    /* font-weight: 400; */
+    font-style: normal;
+}
+
+footer {
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
