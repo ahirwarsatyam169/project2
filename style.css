@@ -84,11 +84,11 @@ h4 {
     /* font-style: normal; */
 } */
 
-img:hover {
-    max-width: 40vh;
+img:hover{
+    /* max-width: 40vh;
     height: auto;
     margin: 11px;
-    border-radius: 10px;
+    border-radius: 10px; */
     border: 3px solid rgb(230, 230, 230);
 }
 
@@ -106,6 +106,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+
 
 
 
